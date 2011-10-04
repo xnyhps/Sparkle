@@ -1,5 +1,6 @@
 // Common
 
+SYMROOT = ../../build
 PREBINDING = NO
 ZERO_LINK = NO
 CURRENT_PROJECT_VERSION = 1.5
